@@ -1094,7 +1094,7 @@
         <mxCell id="A9HPcWfNnL1BEkyjVgaU-37" value="피부 타입" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="653" y="530" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A9HPcWfNnL1BEkyjVgaU-38" value="날짜" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="A9HPcWfNnL1BEkyjVgaU-38" value="날짜" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="73" y="590" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A9HPcWfNnL1BEkyjVgaU-39" value="회원 KEY" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
@@ -1466,7 +1466,7 @@
             <mxPoint x="1490" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9HPcWfNnL1BEkyjVgaU-509" value="날짜" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="A9HPcWfNnL1BEkyjVgaU-509" value="날짜" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="186.5" y="710" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A9HPcWfNnL1BEkyjVgaU-510" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A9HPcWfNnL1BEkyjVgaU-7" target="A9HPcWfNnL1BEkyjVgaU-509">
