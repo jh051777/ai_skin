@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="페이지-1" id="psWSUqXnJ3mYuiBxLyal">
-    <mxGraphModel dx="1188" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A9HPcWfNnL1BEkyjVgaU-4" value="회원" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="363" y="240" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A9HPcWfNnL1BEkyjVgaU-5" value="설문조사" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="A9HPcWfNnL1BEkyjVgaU-5" value="설문조사결과" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="483" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A9HPcWfNnL1BEkyjVgaU-6" value="사진" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -1286,6 +1286,18 @@
           <mxGeometry x="680" width="80" height="32" as="geometry">
             <mxRectangle width="80" height="32" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A9HPcWfNnL1BEkyjVgaU-489" value="1. 회원 테이블" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="920" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A9HPcWfNnL1BEkyjVgaU-490" value="2. 설문조사 결과 테이블" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="43" y="1360" width="237" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A9HPcWfNnL1BEkyjVgaU-491" value="3. 사진 테이블" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1640" width="237" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A9HPcWfNnL1BEkyjVgaU-492" value="4. 분석 결과 테이블" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1920" width="237" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
