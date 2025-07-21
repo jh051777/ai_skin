@@ -1272,7 +1272,7 @@
           <mxGeometry x="867" y="840" width="237" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A9HPcWfNnL1BEkyjVgaU-560" value="product_tbl" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#9673a6;fontSize=16;fillColor=#e1d5e7;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="190" width="760" height="256" as="geometry" />
+          <mxGeometry x="1700" y="160" width="760" height="256" as="geometry" />
         </mxCell>
         <mxCell id="A9HPcWfNnL1BEkyjVgaU-561" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="A9HPcWfNnL1BEkyjVgaU-560">
           <mxGeometry y="30" width="760" height="32" as="geometry" />
